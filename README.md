@@ -8,13 +8,13 @@ Se dividirá en dos esta tarea.
 
 - Lee el documento [Tarea_Herencia.pdf](Tarea_Herencia.pdf) y realiza el programa descrito en el.  
 - Cada clase deberá tener su propio `archivo .h y .cpp` y serán guardados en el folder Tarea1.
-- Se deberá incluir un diagrama UML que represente su solución
+- Se deberá incluir un diagrama UML que represente su solución  en archivo JPG
 
 ### Tarea Herencia 2.
 
 - Modifica el programa de la Tarea Diseño Orientado a Objetos para desarrollar el concepto de Herencia en sus clases.
 - Integra las clases desarrolladas en la Tarea Herencia 1 para incluir diferentes tipos de paquetes.
-- Modifica el diagrama UML original para reflejar todos estos cambios.
+- Modifica el diagrama UML original para reflejar todos estos cambios en archivo JPG
 
 
 
